@@ -9,11 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="audhiaprilliant.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="billy-palmer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="audhiaprilliant | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="audhiaprilliant | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="audhiaprilliant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -36,18 +33,11 @@
 
 ---
 
-### 📚 Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
 
 ---
 
 <img align="left" alt="billy-palmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=billy-palmer&show_icons=true&hide_border=true" />
 
-[website]: http://audhiaprilliant.github.io/
-[medium]: https://medium.com/@audhiaprilliant/
-[kaggle]: https://www.kaggle.com/audhiaprilliant
-[codechef]: http://codechef.com/users/audhi
+[website]: http://billy-palmer.github.io/
 [twitter]: https://twitter.com/audhiaprilliant
-[facebook]: https://www.facebook.com/audhi.aprilliant/
 [linkedin]: https://www.linkedin.com/in/audhiaprilliant/
