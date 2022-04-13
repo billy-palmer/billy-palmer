@@ -42,4 +42,4 @@
 <img align="left" alt="billy-palmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=billy-palmer&show_icons=true&hide_border=true" />
 
 [website]: http://billy-palmer.github.io/
-[linkedin]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BIukDMx6JSsK2TA54V9dINg%3D%3D
+[linkedin]: https://www.linkedin.com/in/billy-palmer-2750b31b0/
