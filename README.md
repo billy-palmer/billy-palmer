@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Science and Analytics 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Give impact to society
-- ⚡ Fun fact: I love blogging, reading books, and drawing
+- ⚡ Fun fact: I love to make music 
 
 ### Connect with me:
 
