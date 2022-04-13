@@ -12,7 +12,7 @@
 ### Contacts:
 
 [<img align="left" alt="billy-palmer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://img.favpng.com/0/3/14/social-media-linkedin-computer-icons-logo-desktop-wallpaper-png-favpng-eSL0w7LL7auYCcEzXW8ABcH6Z.jpg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
 
 
 <br />
