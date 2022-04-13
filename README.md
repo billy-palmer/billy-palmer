@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="billy-palmer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="audhiaprilliant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
@@ -39,5 +39,4 @@
 <img align="left" alt="billy-palmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=billy-palmer&show_icons=true&hide_border=true" />
 
 [website]: http://billy-palmer.github.io/
-[twitter]: https://twitter.com/audhiaprilliant
-[linkedin]: https://www.linkedin.com/in/audhiaprilliant/
+[linkedin]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BIukDMx6JSsK2TA54V9dINg%3D%3D
