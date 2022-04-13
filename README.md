@@ -1,13 +1,15 @@
 ### Hi there, I'm [Billy Palmer][website] 👋
 
-## I'm a Man, Friend, and Researcher!
+## A little about me...
+- I am a graduate of University of Wisconsin - Green Bay
+- I have a bachelor's degree in computer science with an emphasis in software development
 - 🔭 I’m currently working on a [personal project][website]!
-- 🌱 I’m currently learning Data Science and Analytics 🤣
+- 🌱 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Give impact to society
 - ⚡ Fun fact: I love to make music 
 
-### Connect with me:
+### Contacts:
 
 [<img align="left" alt="billy-palmer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
