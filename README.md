@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[icon].svg
 
 <!--
 **billy-palmer/billy-palmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
