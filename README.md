@@ -42,7 +42,7 @@
 
 ---
 
-<img align="left" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=audhiaprilliant&show_icons=true&hide_border=true" />
+<img align="left" alt="billy-palmer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=billy-palmer&show_icons=true&hide_border=true" />
 
 [website]: http://audhiaprilliant.github.io/
 [medium]: https://medium.com/@audhiaprilliant/
