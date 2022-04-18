@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Give impact to society
 - ⚡ Fun fact: I love to make music 
-- Here is the music I listen to when I code [<img align="Right" alt="Spotify" width="26px" src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-may-spotify-logo-dark-mode-cool-music-service-offers-legal-streaming-music-spotify-logo-dark-mode-218033923.jpg" />][spotify]
+- Here is the music I listen to when I code [<img alt="Spotify" width="50px" src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-may-spotify-logo-dark-mode-cool-music-service-offers-legal-streaming-music-spotify-logo-dark-mode-218033923.jpg" />][spotify]
 
 ### Contacts:
 
