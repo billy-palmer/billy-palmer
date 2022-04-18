@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Give impact to society
 - ⚡ Fun fact: I love to make music 
+- Here is the music I listen to when I code [<img align="left" alt="Java" width="26px" src="https://pngset.com/images/spotify-logo-for-music-streaming-service-logo-spotify-ads-symbol-text-plant-word-transparent-png-817770.png" />][spotify]
 
 ### Contacts:
 
@@ -43,3 +44,4 @@
 
 [website]: http://billy-palmer.github.io/
 [linkedin]: https://www.linkedin.com/in/billy-palmer-2750b31b0/
+[spotify] https://open.spotify.com/playlist/7BIMS2AWxXsVswngXXljD2
