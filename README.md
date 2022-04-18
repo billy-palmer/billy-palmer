@@ -44,4 +44,4 @@
 
 [website]: http://billy-palmer.github.io/
 [linkedin]: https://www.linkedin.com/in/billy-palmer-2750b31b0/
-[spotify] https://open.spotify.com/playlist/7BIMS2AWxXsVswngXXljD2
+[spotify]: https://open.spotify.com/playlist/7BIMS2AWxXsVswngXXljD2
