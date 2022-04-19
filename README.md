@@ -4,7 +4,6 @@
 - I am a graduate of University of Wisconsin - Green Bay
 - I have a bachelor's degree in computer science with an emphasis in software development
 - 🔭 I’m currently working on a [personal project][website]!
-- 🌱 
 - 👯 I love collaborating on application development and software design
 - 🥅 My goal is to eventually launch a mobile application or game on the app store or steam
 - ⚡ Fun fact: I love to make music 
