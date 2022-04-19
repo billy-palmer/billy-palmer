@@ -5,8 +5,8 @@
 - I have a bachelor's degree in computer science with an emphasis in software development
 - 🔭 I’m currently working on a [personal project][website]!
 - 🌱 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Give impact to society
+- 👯 I love collaborating on application development and software design
+- 🥅 My goal is to eventually launch a mobile application or game on the app store or steam
 - ⚡ Fun fact: I love to make music 
 - Here is the music I listen to when I code [<img alt="Spotify" width="50px" src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-may-spotify-logo-dark-mode-cool-music-service-offers-legal-streaming-music-spotify-logo-dark-mode-218033923.jpg" />][spotify]
 
